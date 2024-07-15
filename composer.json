@@ -1,0 +1,7 @@
+{
+    "require-dev": {
+        "pestphp/pest": "*",
+        "spatie/phpunit-watcher": "*",
+        "symfony/var-dumper": "*"
+    }
+}
