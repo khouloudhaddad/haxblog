@@ -9,3 +9,4 @@ phpunit:
   binaryPath: vendor/bin/pest
   arguments: '--stop-on-failure'
   timeout: 180
+

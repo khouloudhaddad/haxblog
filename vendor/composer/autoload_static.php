@@ -89,6 +89,8 @@ class ComposerStaticInit6dcd0665f1db8a0e46901ec1eeeddae9
         ),
         'D' => 
         array (
+            'Domain\\Blog\\Test\\' => 17,
+            'Domain\\Blog\\' => 12,
             'Doctrine\\Deprecations\\' => 22,
             'DeepCopy\\' => 9,
         ),
@@ -104,8 +106,8 @@ class ComposerStaticInit6dcd0665f1db8a0e46901ec1eeeddae9
         'phpDocumentor\\Reflection\\' => 
         array (
             0 => __DIR__ . '/..' . '/phpdocumentor/reflection-common/src',
-            1 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
-            2 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            1 => __DIR__ . '/..' . '/phpdocumentor/reflection-docblock/src',
+            2 => __DIR__ . '/..' . '/phpdocumentor/type-resolver/src',
         ),
         'Whoops\\' => 
         array (
@@ -234,6 +236,14 @@ class ComposerStaticInit6dcd0665f1db8a0e46901ec1eeeddae9
         'Evenement\\' => 
         array (
             0 => __DIR__ . '/..' . '/evenement/evenement/src',
+        ),
+        'Domain\\Blog\\Test\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/domain/Blog/test',
+        ),
+        'Domain\\Blog\\' => 
+        array (
+            0 => __DIR__ . '/../..' . '/domain/Blog/src',
         ),
         'Doctrine\\Deprecations\\' => 
         array (
